@@ -1,0 +1,98 @@
+
+body {
+   font-family: Bungee;
+}
+
+.About {
+    background-color: #ff00ff;;
+    display: flex;
+    text-align;
+    
+}
+
+
+header {
+    display: inline-table;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.cafe {
+    height: 300px;
+}
+
+.milk {
+    height: 300px;
+    
+}
+
+.cookies {
+    height: 300px;
+}
+
+.food {
+    height: 300px;
+    width: 300px;
+    max-width: 100%;
+}
+
+.Coffee {
+    border-style: solid;
+    border-color: #7944e6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.cream {
+    text-align: center;
+    border-style: solid;
+    border-color: #7944e6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.cook{
+    text-align: center;
+    border-style: solid;
+    border-color: #7944e6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+.CCC{
+    max-height: 500px;
+    max-width: 200px;
+    width: 1000px;
+    height: 50px;
+}
+
+ul :hover{
+    color: #10fdff;
+}
+
+
+@media screen and (min-width: 768px) {
+    body {
+        display: flex;
+        max-width: 100%;
+        position: absolute;
+        padding: 5%;
+    }
+
+    
+    
+
+
+
+}
